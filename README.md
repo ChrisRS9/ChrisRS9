@@ -1,6 +1,6 @@
 # 🌟 Welcome to My GitHub!
 
-Hi there! 👋 I'm **[Your Name]**, a passionate **Software Engineer**, **Data Analyst**, and **Project Manager**. I thrive on learning about **emerging technologies** and delving into the **art of analysis**.  
+Hi there! 👋 I'm **Christoper Ramirez**, a passionate **Software Engineer**, **Data Analyst**, and **Project Manager**. I thrive on learning about **emerging technologies** and delving into the **art of analysis**.  
 
 ## 🚀 About Me  
 - 🖥️ **Profession:** Software Engineer | Data Analyst | Project Manager  
@@ -10,8 +10,8 @@ Hi there! 👋 I'm **[Your Name]**, a passionate **Software Engineer**, **Data A
 
 ## 🔧 My Skills  
 - **Programming Languages:** [JS, TS, Python, C#, PHP, Java]  
-- **Technologies:** [Angular, React, Next, Laravel, ASP, CodeIgniter, DJango, Flask, SQL]  
-- **Tools:** [Git, JIRA, Notion, Trello, Azure boards]  
+- **Technologies:** Angular, React, Next, Laravel, ASP, CodeIgniter, DJango, Flask, SQL 
+- **Tools:** Git, JIRA, Notion, Trello, Azure boards  
 - **Soft Skills:** Leadership, teamwork, and effective communication  
 
 ## ✨ Why Follow Me?  
