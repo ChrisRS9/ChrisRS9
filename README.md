@@ -19,8 +19,4 @@ I use this space to:
 1. **Share projects** showcasing my technical expertise and creativity.  
 2. **Collaborate** on innovative and impactful solutions.  
 3. **Learn and grow** through connections with amazing people like you!  
-<--
-## 📫 Get in Touch  
-- - [LinkedIn](https://www.linkedin.com/)  
-- - [Portfolio](https://your-portfolio-link.com)  
-- - 📧 Email: [your-email@example.com](mailto:your-email@example.com)  -->
+
